@@ -1,0 +1,3 @@
+$ python house_poly.py 
+Root mean square error:  5.636814951186713
+R2 Square value 0.6421208393979227

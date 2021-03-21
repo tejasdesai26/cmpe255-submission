@@ -1,0 +1,4 @@
+$ python house_linear.py 
+Root mean square error:  4.496652997239293
+R2 Square value 0.7808957946194914
+Adjusted R2 Square 0.7485281279155527
