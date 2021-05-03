@@ -35,7 +35,6 @@ class svm_solution:
 		model = grid.best_estimator_
 		yfit = model.predict(Xtest)
 		
-	def print_plots_prf1s_mtrx():
 		fig, ax = plt.subplots(4, 6)
 		for i, axi in enumerate(ax.flat):
 			axi.imshow(Xtest[i].reshape(62, 47), cmap='bone')
